@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @javi95z
 - 👀 I’m interested in *Frontend Software Engineering*
 - 💞️ *JavaScript*, *TypeScript*, *React* and *Angular* user
-- 🌱 I’m currently learning *NextJS* 
 - 📫 Reach me here or on [LinkedIn](https://www.linkedin.com/in/javier-monfort/)
 
 
