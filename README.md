@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @javi95z
+- 👋 Hi, I’m Javi
 - 💻 *UI/UX and Frontend Software Engineering*
-- Creator of ✈️ [FindCity](https://findcity.io)
 - 💞️ *JavaScript*, *TypeScript*, *NextJS*, *React*, *Astro* and *Laravel* user
 - 📫 Reach me here or on [LinkedIn](https://www.linkedin.com/in/javier-monfort/)
 
